@@ -3,11 +3,12 @@ Tutorials and paper lists for federated learning.
 
 Wish this can help you dive into FL more easily.
 
-
+[toc]
 
 ## Tutorials
 
 - [NeurIPS 2020] Federated Learning Tutorial [[Web]](https://sites.google.com/view/fl-tutorial/) [[Slides]](https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view) [[Video]](https://slideslive.com/38935813/federated-learning-tutorial)
+- [联邦学习入门教程参考](https://docs.qq.com/doc/DVUxDVkd4b0FXdUpK)
 
 
 
@@ -67,8 +68,18 @@ Wish this can help you dive into FL more easily.
 
 
 
+## Blogs
+
+- [无知者：联邦学习系统前沿](https://www.zhihu.com/column/c_1274126974563659776)
+- [无知者：联邦学习开源框架FedLab相关](https://www.zhihu.com/column/c_1412167529406550016)
+- [lokinko:联邦学习论文分享](https://www.zhihu.com/column/c_1274302650633465856)
+- [AgentDS：划水运动员假装在学术](https://www.zhihu.com/column/c_1412459345045417984)
+
+
+
 ## Awesome List
 
+- [lokinko/Federated-Learning](https://github.com/lokinko/Federated-Learning)
 - [chaoyanghe/Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning)
 - [weimingwill/awesome-federated-learning](https://github.com/weimingwill/awesome-federated-learning)
 - [tushar-semwal/awesome-federated-computing](https://github.com/tushar-semwal/awesome-federated-computing)
