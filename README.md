@@ -1,5 +1,7 @@
-# Awesome-Federated-Learning
-Tutorials and paper lists for federated learning.
+# Dive into Federated Learning
+Tutorials and paper lists for federated learning. 
+
+Wish this can help you dive into FL more easily.
 
 
 
