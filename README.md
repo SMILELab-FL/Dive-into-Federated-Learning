@@ -3,16 +3,18 @@ Tutorials and paper lists for federated learning.
 
 Wish this can help you dive into FL more easily.
 
+关于联邦学习的教程和论文列表。希望能方便大家入门联邦学习。
+
 [toc]
 
-## Tutorials
+## Tutorials 教程
 
 - [NeurIPS 2020] Federated Learning Tutorial [[Web]](https://sites.google.com/view/fl-tutorial/) [[Slides]](https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view) [[Video]](https://slideslive.com/38935813/federated-learning-tutorial)
 - [联邦学习入门教程参考](https://docs.qq.com/doc/DVUxDVkd4b0FXdUpK)
 
 
 
-## Survey
+## Survey 综述
 
 - [ICLR-DPML 2021] FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks [[Paper]](https://arxiv.org/abs/2104.07145) [[Code]](https://github.com/FedML-AI/FedGraphNN)
 - [arXiv 2021] Federated Graph Learning -- A Position Paper [[Paper]](https://arxiv.org/abs/2105.11099)
@@ -26,7 +28,7 @@ Wish this can help you dive into FL more easily.
 
 
 
-## Frameworks
+## Frameworks 框架
 
 - __FedLab:__ [Code](https://github.com/SMILELab-FL/FedLab), [FedLab-benchmarks](https://github.com/SMILELab-FL/FedLab-benchmarks), [Doc](https://fedlab.readthedocs.io/) ([zh-CN-Doc](https://fedlab.readthedocs.io/zh_CN/latest/)), [Paper](https://arxiv.org/abs/2107.11621)
 - __Flower:__ [Code](https://github.com/adap/flower), [Homepage](https://flower.dev/), [Doc](https://flower.dev/docs/), [Paper](https://arxiv.org/abs/2007.14390)
@@ -42,7 +44,7 @@ Wish this can help you dive into FL more easily.
 
 
 
-## Benchmarks
+## Benchmarks 基准
 
 - __FedLab-benchmarks:__ [Code](https://github.com/SMILELab-FL/FedLab-benchmarks)
 - [ACM TIST 2022] The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems [[Code]](https://github.com/Xtra-Computing/OARF) [[Paper]](https://arxiv.org/abs/2006.07856)
@@ -52,7 +54,7 @@ Wish this can help you dive into FL more easily.
 
 
 
-## FL + Semi-supervised Learning
+## FL+Semi-supervised Learning 联邦半监督
 
 - [ICLR 2021] Federated Semi-supervised Learning with Inter-Client Consistency & Disjoint Learning [[Paper]](https://arxiv.org/abs/2006.12097) [[Code]](https://github.com/wyjeong/FedMatch)
 - [arXiv 2021] SemiFL: Communication Efficient Semi-Supervised Federated Learning with Unlabeled Clients [[Paper]](https://arxiv.org/abs/2106.01432)
@@ -61,14 +63,14 @@ Wish this can help you dive into FL more easily.
 
 
 
-## FL + HPC
+## FL+HPC 联邦高性能计算
 
 - [arXiv 2022] Sky Computing: Accelerating Geo-distributed Computing in Federated Learning [[Paper]](https://arxiv.org/abs/2202.11836) [[Code]](https://github.com/hpcaitech/SkyComputing) 
 - [ACM HPDC 2020] TiFL: A Tier-based Federated Learning System [[Paper]](https://arxiv.org/abs/2001.09249) [[Video]](https://www.youtube.com/watch?v=y8GZKn2zyNk)
 
 
 
-## Blogs
+## Blogs 博客
 
 - [无知者：联邦学习系统前沿](https://www.zhihu.com/column/c_1274126974563659776)
 - [无知者：联邦学习开源框架FedLab相关](https://www.zhihu.com/column/c_1412167529406550016)
