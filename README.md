@@ -41,6 +41,10 @@ Wish this can help you dive into FL more easily.
 - __PaddleFL:__ [Code](https://github.com/PaddlePaddle/PaddleFL), [Doc](https://paddlefl.readthedocs.io/en/latest/index.html)
 - __Fedlearner:__ [Code](https://github.com/bytedance/fedlearner)
 - __OpenFL:__ [Code](https://github.com/intel/openfl), [Doc](https://openfl.readthedocs.io/en/latest/install.html), [Paper](https://arxiv.org/abs/2105.06413)
+- __FedScale:__ [Code](https://github.com/symbioticlab/fedscale), [Paper](https://arxiv.org/abs/2105.11367)
+- __FLSim:__ [Code](https://github.com/facebookresearch/FLSim)
+- __EasyFL:__ [Code](https://github.com/EasyFL-AI/EasyFL), [Doc](https://easyfl.readthedocs.io/en/latest/), [Paper](https://arxiv.org/abs/2105.07603)
+- __FederatedScope:__ [Code](https://github.com/alibaba/FederatedScope), [Homepage](https://federatedscope.io/)
 
 
 
