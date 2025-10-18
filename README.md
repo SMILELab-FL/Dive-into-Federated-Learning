@@ -55,6 +55,7 @@ Wish this can help you dive into FL more easily.
 - [IEEE ICDE 2022] Federated Learning on Non-IID Data Silos: An Experimental Study [[Paper]](https://arxiv.org/abs/2102.02079) [[Official Code]](https://github.com/Xtra-Computing/NIID-Bench) [[FedLab Tutorial]](https://fedlab.readthedocs.io/en/master/tutorials/dataset_partition.html)
 - [ICLR-DPML 2021] FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks [[Paper]](https://arxiv.org/abs/2104.07145) [[Code]](https://github.com/FedML-AI/FedGraphNN)
 - [arXiv 2018] LEAF: A Benchmark for Federated Settings [[Homepage]](https://leaf.cmu.edu/) [[Official tensorflow]](https://github.com/TalwalkarLab/leaf) [[Unofficial PyTorch]](https://github.com/SMILELab-FL/FedLab-benchmarks/tree/master/fedlab_benchmarks/leaf) [[Paper]](https://arxiv.org/abs/1812.01097)
+- [arXiv 2023] FedNoisy: Federated Noisy Label Learning Benchmark [[Paper]](https://arxiv.org/abs/2306.11650) [[Code]](https://github.com/SMILELab-FL/FedNoisy)
 
 
 
