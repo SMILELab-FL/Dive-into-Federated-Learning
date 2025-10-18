@@ -56,6 +56,7 @@ Wish this can help you dive into FL more easily.
 - [ICLR-DPML 2021] FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks [[Paper]](https://arxiv.org/abs/2104.07145) [[Code]](https://github.com/FedML-AI/FedGraphNN)
 - [arXiv 2018] LEAF: A Benchmark for Federated Settings [[Homepage]](https://leaf.cmu.edu/) [[Official tensorflow]](https://github.com/TalwalkarLab/leaf) [[Unofficial PyTorch]](https://github.com/SMILELab-FL/FedLab-benchmarks/tree/master/fedlab_benchmarks/leaf) [[Paper]](https://arxiv.org/abs/1812.01097)
 - [arXiv 2023] FedNoisy: Federated Noisy Label Learning Benchmark [[Paper]](https://arxiv.org/abs/2306.11650) [[Code]](https://github.com/SMILELab-FL/FedNoisy)
+- [ACL 2023] FEDLEGAL: The First Real-World Federated Learning Benchmark for Legal NLP [[Paper]](https://aclanthology.org/2023.acl-long.193.pdf) [[Code]](https://github.com/SMILELab-FL/FedLegal)
 
 
 
